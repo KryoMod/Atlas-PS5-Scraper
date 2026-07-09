@@ -1707,6 +1707,56 @@
       ]
     },
     {
+      "baseTitleId": "PPSA01462",
+      "title": "Borderlands 3",
+      "variations": [
+        {
+          "name": "PPSA01462 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicTRaV0lZS2RWZmZmYXgrZW1KZGtwL212QnJ0UzZ6bU1LQ1JvR1psY0IxQzdSZ2ZNR3o4eEZubjZmOTNzUlZORzROMjg0M1ZtVDk1N2Q1K3lRT1U0U2JoZ29CMnpOVmhYM09jPSIsImkiOiJnd2cyd05DeWtFd00rb1UzIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNDBTNDZXWFJPdHVueFBKd283cDF6MGViVmFmS2ppN0l6d2pLeUVyYjNUMjA0TUlOTGd2SkFPVHN4THd0ZXRIOEJTT1ZmTWppN2hxTjR4dlpIeTZ5RThqS2FmOXRkVm89IiwiaSI6ImNOdzNxbkp2d0EvY1NtNisiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia0crYWhkM1lFaStHOFo4UXduVTBveUFpR21GTlBLQTBzckpzYkVKSllDRFdCeTlueGxDbDdtbTVmQWlEeW50ZTNUb1JnV0xtcGdBTlZOMnIzY1V2ZldEUmloTjMiLCJpIjoiT0R3OWpqdVJDRU02YXFOMiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN0JsN2RPS0lNN0JWR3FYNmI1Qkw4VVBSc0hzYm8zVTRZSU43NjNEQW05K1UyTTllYjUyWmZiRHdHRXVCY1pVdEp2NDcxeDRtYk5vTUdzS3Y3L0NNMzBKYmUyV3hGTmM9IiwiaSI6Ikl6dU95ZC94T254VE1ndWsiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQ3phdlNHMGhPZUNZcExkR2cvSEk2TFo2Wkd0V09UaGZSWHF1TDBFN2YvYTBkMDhJZmVhaTNhZ3doaUh2YUJLTGxxTFJVQ3ZxbmVxUzI5bFU5b1F5M2R0a3UrZ3U2dz09IiwiaSI6IlpEejJDNDdwV2NsaGVLSUYiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA01462 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/iN6mkIeyRd"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/CkIpE"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?3ffexbetfajx4hyojv3x&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA01494",
       "title": "Borderlands 4",
       "variations": [
@@ -5433,6 +5483,56 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?rptpxm2m6mvh3gk9ew4h&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA09911",
+      "title": "Ghostrunner 2",
+      "variations": [
+        {
+          "name": "PPSA09911 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL3NLcHRYS1NDNnJmQ0dSRG1tcnROL3grWHNqU3dNTW1ncG9lZTBIM24wL2pBNVpnZDFXYWV2SHdzaWRtQm1kekg3eXUyc3BJempCazFQYUxMckRxR09nMDNwaGVIRHZ6NFlRPSIsImkiOiJpMm8yREgvMkhvTzlkUE1NIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQldmcnluNi9RZjdDaStJZDdJbEFudENtUXFVdU1WUmEvaWVhM0MxbGNXbWRya2RnY09JNWxWdDgxQ3BjczlKR0RVR240WlVoblkxZ2YyQkdyMUlTblZROGY1Mkx0a289IiwiaSI6Ik5uSlIyVGJQZGlGTHF1MFQiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTWcxZ0lFN3ZXbUFOS0xWYmVvV2hNUWtvU2xHUzc3V0hzdFFqbllkTFBqTmpLcUtPbFZkdTJlaHA4ZnowS3VWYi9vYjJFdDl4SkpyMWFweURJOHg1VTdMVEJXL2QiLCJpIjoiVkZMRXJ1ZXZYVnM2dXZLeiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZi9PZGMvdmpGWlpnaERqMkFNT3czd0ZJR1dhQURidFRvbW5sR21VVWJGOGJsdEVrbmJmaFNvZjJHR0NXbzdZOFN4eWFNSHV0ckJ3U2VHSHZLM29DRVBwdXRtTDFibFE9IiwiaSI6Ii9mM2hvWGJacGtQbU1tdWgiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRzNGMG1iNmFJU3hWUk1TekhhbE1ESXE4QmVMeWRqaGxsb3JDWlBHeHIvT2pYdnF5bVZkZHVHaklSU3JlRGtIbmVCWmUwRGYzMGR2R3owcWs2aEhnTXQ3NjU1alNpUT09IiwiaSI6InlydUZvRHVKb3pESFRxNW8iLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA09911 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Akia",
+              "url": "https://akirabox.com/LK0G1qePwG91/file"
+            },
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/SssFm4aUgz"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?ycsv1handpr8x0rzx9s3&af=4186346"
             }
           ]
         }
@@ -14105,6 +14205,56 @@
       ]
     },
     {
+      "baseTitleId": "PPSA02632",
+      "title": "Street Fighter 6",
+      "variations": [
+        {
+          "name": "PPSA02632 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSHFjSlVmcUhRR29ZZVZ6ZEhQSDltOU9IVjRBVUFBWnk2OGxoUUdxZTd0bjBHNlNYZmVtNzh3SHlyQmVCVWRCSS9yMFFPaHoxOU1SUmZqSEFDd3pvZnVGdUJ2SS8zOUsrc0JjPSIsImkiOiJpRTJZUVZ5Y2pBTGtDSHpJIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL0JxUmptdzYzVjR3SUphbUZzaHhaNnowVlY5dkZmQ3hnUUhQWjhLYzFsTmEwWWNoeVE3dTR4VXVsMTRCQ0NFbmJ1SCt1aVR4Tkxpb3ZKb1gvN2JqVk1COU9HN0psNkE9IiwiaSI6InlrTnV2SUIrRlFCRFBsTHgiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSngwMUlFT3N0Tm1ndnRocklBOFI4NzJHMXRPZWl2YzBVVkhPTElJcnBXMHViT2xYNWtoQis2Sy9zalYwUGFONlhxZElwV3lWQmZVR3ZMdi9Pa1BOM25oQWZJNkgiLCJpIjoiUVprZkxHTEliT3U2ZDFiQyIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVHFCWjhnajFFM2hjajN3anoxaGRsNXppdXZqYUFqQ0VYY0NMdnVKY3JsYUlNcHNmQytPRDRtMWR3R04vYUkyWDRoV1JuNVdrNE5uaWllUnhaMFd4eDJic29ibW9udEk9IiwiaSI6IjBmQ1FtcnhTNTFpL1ZMakYiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWVNxaHpjTlk4ZWx5WmU5dWlWZ1c3bk1FZkxtTDFWU1dQTTlJK1N3UDVFUy9nNFRHd1FVRk9PRk4ycTAzVFEvQkh6RVpvWEhkT3lJcXg0ZGZrckdwdUU1b0toRWZJZz09IiwiaSI6InJxNXN3bG04dkdVd1VZdSsiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA02632 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/2goVkFUY8p"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/1Q1UCe"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?l1kxvimy5cdmgw8zdpkt&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA28835",
       "title": "Styx Blades of Greed",
       "variations": [
@@ -17609,6 +17759,32 @@
               "url": "https://datanodes.to/fnasqkeovcwz"
             }
           ]
+        },
+        {
+          "name": "PPSA09519 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/OulJCr95Ar"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/2BAmTQ"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?hnpw4o74545edb6pu9gi&af=4186346"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/kt1CYVqtkU"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/1z5Dsm"
+            }
+          ]
         }
       ]
     },
@@ -18373,12 +18549,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/Xkrzo9nQmBOR/file"
-            },
-            {
               "name": "Game - Viki",
               "url": "https://vikingfile.com/f/UEC0b6mZo9"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/278vbs"
             },
             {
               "name": "Game - 1File",
@@ -18705,30 +18881,6 @@
       ]
     },
     {
-      "baseTitleId": "PPSA01462",
-      "title": "Borderlands 3 Ultimate Edition",
-      "variations": [
-        {
-          "name": "PPSA01462 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/iN6mkIeyRd"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/CkIpE"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?3ffexbetfajx4hyojv3x&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "baseTitleId": "PPSA14457",
       "title": "Born of Bread",
       "variations": [
@@ -18873,12 +19025,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/jJD3V4l0Ga5Q/file"
-            },
-            {
               "name": "Game - Viki",
               "url": "https://vikingfile.com/f/XFNE4KOMPC"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/16YFRA"
             },
             {
               "name": "Game - 1File",
@@ -20485,30 +20637,6 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?kmk2grzor0yoglzb6ryh&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA09911",
-      "title": "Ghostrunner 2",
-      "variations": [
-        {
-          "name": "PPSA09911 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/LK0G1qePwG91/file"
-            },
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/SssFm4aUgz"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?ycsv1handpr8x0rzx9s3&af=4186346"
             }
           ]
         }
@@ -23511,30 +23639,6 @@
       ]
     },
     {
-      "baseTitleId": "PPSA02632",
-      "title": "Street Fighter 6",
-      "variations": [
-        {
-          "name": "PPSA02632 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/2goVkFUY8p"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/1Q1UCe"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?l1kxvimy5cdmgw8zdpkt&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "baseTitleId": "PPSA02275",
       "title": "Street Outlaws 2: Winner Takes All",
       "variations": [
@@ -24159,12 +24263,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/M2BGwbXkzj40/file"
-            },
-            {
               "name": "Game - Viki",
               "url": "https://vikingfile.com/f/taDwoVK1mO"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/1Aa6Ii"
             },
             {
               "name": "Game - 1File",
@@ -25047,12 +25151,12 @@
           "source": "superPSX",
           "links": [
             {
-              "name": "Game - Akia",
-              "url": "https://akirabox.com/Xkrzo9nQmBOR/file"
-            },
-            {
               "name": "Game - Viki",
               "url": "https://vikingfile.com/f/5qO8zLeruL"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/qQq36"
             },
             {
               "name": "Game - 1File",
