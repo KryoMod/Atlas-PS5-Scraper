@@ -21,6 +21,7 @@ def merge_catalogs():
                     catalog[raw_tid] = {
                         "baseTitleId": raw_tid,
                         "title": pkg["title"],
+                        "posterUrl": pkg.get("posterUrl", ""),  # ONLY ADDED THIS LINE
                         "variations": []
                     }
                     
@@ -30,8 +31,8 @@ def merge_catalogs():
                     "links": pkg.get("downloadLinks", [])
                 })
                 
-    with open('PS5_catalog.json', 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump({"packages": list(catalog.values())}, f, indent=2, ensure_ascii=False)
-    print("DONE: Saved to PS5_catalog.json")
+    print(f"DONE: Saved to {output_path}")
 
 merge_catalogs()
