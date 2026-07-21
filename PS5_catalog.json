@@ -1617,6 +1617,53 @@
       ]
     },
     {
+      "baseTitleId": "PPSA17465",
+      "title": "Barbie Project Friendship",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Barbie_Project_Friendship.jpg",
+      "variations": [
+        {
+          "name": "PPSA17465 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZlpSUFNENkwrWWhzOVArRENpZFNlbUt0dTVsNTl1NWdIVG5FaUhxb1JIbDRTdmpsWjdER2lBZnh1SVpuSjRva3dhUzcxc1VYeU9DZ1EvSnhFM1lmZ2dTS3g3S3h0WGNCSG1nPSIsImkiOiJBWGN5NmlwOTBtamJHeVpBIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMmZTdmR3Rjc4K2xNdGVLa2d4RHdkTjI3Q0orcEFRWWx3QmlhS3BKVzVLbXF2MWpFZHFhMGVMejdPZmZOQW16NXo1M1Npc2J5Y1BoNGFXUzNod0YyN0sxNTgrTlJzU2s9IiwiaSI6IlNYQWdDNXQrQXRWOC9NSUUiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibE1RRE5QYVVuL1U5cTdCbi90L296U041ZnRHM09YRzJreS9ZaENsVUs1NzNTa2V4ajBiYjJwNXA5RmJwbjhqVmFyOEs4dzc0NzZxOWs5eTRwQXZTbHNRT0dwZzUiLCJpIjoiR1ZqVmdOb3QxQjVSUXkvOCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZFlmc29DdW8wOXFxVllDazVocGJOSlBIckxVdHROVHNiTThoSTNZZzZBSEx2U2h4RG5MelV0L1NHOU5ZMUNtMUFJVFhUcXdTOVNJaVJtcnhiYTlYSGZDUVJCWGl1ZUk9IiwiaSI6IldtUHhOWW5uOWZPS2dLMm4iLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRW4xZkVWelpsZUZ1RmJIbXhPaVR3MmM0RXRNS3J1eVlMSHdTWGZSbXYxZ2xjWFJWeEdoVm5FSkgwLzErbzFoaE5BRVdZMVVwQ1ZVQ0pySTgreTM3ZE1JYUp6c2h6QT09IiwiaSI6IkFBcHdLRHNxbzhkclc4SkEiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA17465 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/1Rfu3U"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?5z9jscqzqyizerf6kqkj&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA27624",
       "title": "Bendy and the Dark Revival",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Bendy_and_the_Dark_Revival.avif",
@@ -1740,24 +1787,44 @@
           "source": "exFAT",
           "links": [
             {
-              "name": "exFAT - akia_url",
+              "name": "Backport - backport7xx_akia",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiR21XVm1rbExWWm56Y3BwUlBscnl1SmZYaktqTmowTytmbGlLMjVOU2JybWNidWsxQ2V4bXRNS2x4OXFONXRITklabHlQOVVLSlpWZjY2MWswZ0pMTGpSZzg1bWxtYi80c0gwPSIsImkiOiJ2YTdMclhlYXhCbk5yNllVIiwibiI6IkFraWEifQ=="
             },
             {
-              "name": "exFAT - viki_url",
+              "name": "Backport - backport7xx_viki",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK3laOVBqRmJtTFZvTE1zcnV1ODBOYkt6bGVyVCtQeGluWWd4MEJMbDI1ZFgxYTZRL0x4eEs2eGtGcGVoN0NjR2FaT3hWR05rUVcwUVJFQnhrVkYyWmlxTTQzTGdHQ1k9IiwiaSI6Ijkxa2JpMTVUcUtXUCtXdWoiLCJuIjoiVmlraSJ9"
             },
             {
-              "name": "exFAT - data_url",
+              "name": "Backport - backport7xx_data",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidEJvZTJhRUFEUVFudE9jVS9CTUpIRHRYcG5yVHFlVnBsb2l4amFCMHhON25oaUxJL1d5RStEclUxQ1RaNXF1WmFLMmVtWDV0Wnd5S1RLYjBqOUlpZHc4OXNCOFgiLCJpIjoidUd0V0EzS2g0dnRaSzE5eSIsIm4iOiJEYXRhIn0="
             },
             {
-              "name": "exFAT - filek_url",
+              "name": "Backport - backport7xx_filek",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTWJqcXVmTGZLditSb1djYzZOZmVFRTh5UHk5Q0toNjJLUTdMVmpDZnZES0M4dGwxOWhRYjFaSk4vWXh5VGRPQ2JkRkNvQ1BJc0pBRHYrRW5lMmh3Skl5WkgzeUI0MFk9IiwiaSI6IkFwNVhNbjRIY2F1N2RuTXUiLCJuIjoiRmlsZUsifQ=="
             },
             {
-              "name": "exFAT - vault_url",
+              "name": "Backport - backport7xx_vault",
               "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMllOQUhSTFlRcjRrSDA0L25WMTRQdWxBeDRUZWo2eVcwSHVUTGVGeEFBeWZtaTNKZjYyS3I4WmMrcCtNMDM0SzFJZVpjTjFDMXYycEhjMHVySDJ1MitNT2tWK2R4Zz09IiwiaSI6ImZ0ZEtxK2NjV3NRdTFwbXIiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "Backport - backport4xx_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVXZqd3JKUDg0QUg0Z3dtUzlkRXNYRWtTOC92b1RLZ2RZM1g3enI5TldFVUR5Y0lnWExzOWwzeit3N2Q3RWl3bzhuUXdLZHFkQTllbnQrdGdsa1JLNGV6TmlQRmlPTzRYOGZzPSIsImkiOiIvcUhRbU50VmN2cytpajJ3IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - backport4xx_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWTE4clI0VUh1aUV3SkF0bHRLbCtLZk9tc0luTUF0eUVLaTM0bmlqeWxJU3FlbGs4czN0OGdTM2pwckRZcmRJM1lUOEpiQmYxTUFrWXVDTGlMcGlrQVp5bDRTSytOWEk9IiwiaSI6InB6M2ZTTk9MaC9zd1NsVGoiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - backport4xx_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUWw1VTdvdmUxdUJLTVNVS0FieklSS2Z3T3JtY05HWHhoSjFuOFBld0o5Umt4UzlGRmdtaUp6Q3N2UWU2RUM3N2FPMmpxdWRweVQrU09HbDJKcmMxcFpyckR2UVMiLCJpIjoiZDB2S204WXJrazdzS2FGWCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - backport4xx_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicXRwdCsvZlE5UkxPb05zZXdudXZOblNCRlVtejZFRzJESEl3eFdlY3pXOXZITk1hSzdFOGsrUmMwYkdnbmozaFNheWhERXhxaldXNkNjTjdiUmtJV29RYkYvUG5KVnM9IiwiaSI6ImZIYlpaazlDdUZVSmFmVzAiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - backport4xx_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicFB2RkRZZlNPcWYzV3Yra3VDYlE3U2tZcDZpd0JWRFcya0VFVENudTJZUVQ0Mi80WGVKWUY4Z1k4c3dwT2tLcXlvK2U0YnhRZmdMekllbmZ1SXdMeGFiQWJsb3dLQT09IiwiaSI6IldJQ2VuK0ZnRFoxYlFNWUkiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -5751,23 +5818,23 @@
           "links": [
             {
               "name": "exFAT - akia_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiajBmNzMxdkRVSlQvUS9kWkFlLy95TUwya2FCWFZuQ0xsazBIY28zTkJSOVJTYmJqcjlISmdJSCswRXNDRWVEaFNFdmNZYXh5ZlY2aDMwNWo4UFQyOUdKWEwwazVXM2F4Z2lrPSIsImkiOiJSSWZXTGEwN2JJS1JmU2xrIiwibiI6IkFraWEifQ=="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRDlhU2tDZU9UVlV5LzdNR2dsTGRQUzhObkJneHRUUDM4K3ptNm5CQjNjL0w1S3lNa3RPcUNCTmlIMHozN25pc0p0dy8wZ3FadzA1TnpJeVZzQTlLcGVTZnBTeWtYeFQvK1QwPSIsImkiOiJnM0xsVFVQcFhvNmJKWThFIiwibiI6IkFraWEifQ=="
             },
             {
               "name": "exFAT - viki_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTy9uVk8yMG43QnQzbTRqN2s0RFN3OHVYUFptaGU2eHBEemE3dWd5aW0rWHlrMW5jbis1WVhxTUZnVGgyZlpCU0kxaXEzc1BuUlRlbVhSYytBbE9SNjZ2OWdGRHhmME09IiwiaSI6InpINVh1T1EybHlheGtJeUMiLCJuIjoiVmlraSJ9"
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUFRURlpRUEl6TS9Tdklzbkd1SmNUUDZpU3c2dGE3U09aY1QrVXY2V3JFN2t2cFpRaGFGdkpEeXR6MTZCRmVVZEVGTDFWZkpOTFRsb0VTMTZ4VUR4cDB3Z2JoZGVwems9IiwiaSI6Im1hWjB1TTIxRzlhdmp5U0ciLCJuIjoiVmlraSJ9"
             },
             {
               "name": "exFAT - data_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMTc3M0lSNkxXdzNkWjZZZzVZWm5TNVl3ajI0ZEFLcklhRStQa2l0WEZ1aHJCdUMxWnhJYmw0M0pMTWNJSnJZY0dhKzV5SjBlOXJ4K2JETlUrR3VMQlZmeUFvVjIiLCJpIjoid1pBbjVYMWZJR3NESFh1ZiIsIm4iOiJEYXRhIn0="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicERJcE1hZTFHODA4TTZHT3V0QlMxYkxzQzN6R2NXNHhOQXJLWlVBaCtMazNHcXpocGo3ay94c0I3ak5IaXBkY2FOMU92dmRkNnM0Q1UwRUVQalh6Wk12UVMwTkkiLCJpIjoiNFJWQTlETUw3dHRLbnk0MSIsIm4iOiJEYXRhIn0="
             },
             {
               "name": "exFAT - filek_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZlYxVHMyVjhRRGhVbmpGa2tOVDI4ZVArMFlkdVJWSGhNbUlac1VCVmV2dFRUckRoVE1OaEZRbFdiNlNkWUdXc1RiQXdydGhWdW1MeHhqWGdKS3R1aVhFVG5zM2EzZ3c9IiwiaSI6IkV5SHNhZ0pIeU0yeFREd3ciLCJuIjoiRmlsZUsifQ=="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicEZ6QjlRT2w5OElFSTJQekd4ZnA1NUdXaVBwcVh2UjFFU0JtS2V0dUxLYkFMUWhOOFBEdnEvdVRQcDF1Z0M4RFhrQ3MyRGhaOW43c2VOQkZZQjM5WDFDWXc5MnhkNXM9IiwiaSI6Im0xbFNaQ3FCeHZ6UDArQzgiLCJuIjoiRmlsZUsifQ=="
             },
             {
               "name": "exFAT - vault_url",
-              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS1FlTC9zZmhEWXhQay8zclF6S2RuTWw4cnBPK1BOaUl1QTdDdGN5eFVNN083aXEzQnNVY3ZzajZSVUphT3NQdDBkTUYvZUNSN0h1OWluTTZSYXMvTHVmWEwzYyt0UT09IiwiaSI6Iis3anY5ODdIaHFiQWIzcU8iLCJuIjoiVmF1bHQifQ=="
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSVV3bWc4ZjkvRTdZVUI4K3VDVit4bjE1bHdZSTlzS3hJVUVJbjFTaDFhR05zMldSSmtZOFBDYUxnSmdKWFUraUs4U250RmdlT0FYTjhJL1grNkJHL1dTVjdYS1Zpdz09IiwiaSI6Imx5dG1pVjVTalRoYjVjTSsiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -6127,6 +6194,57 @@
             {
               "name": "exFAT - Data",
               "url": "https://datanodes.to/e7xwb25utrjn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA08546",
+      "title": "Flashback 2",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Flashback_2.webp",
+      "variations": [
+        {
+          "name": "PPSA08546 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWGZFYTJVeGthWFJidHpNaWpqZmdrR09BSkk4R2tybDFEN2Nvc2hSWUJFTXM2aUVhM2NMbDFJdFhpV3krK1oxa1lob24vU2NqQk13bS9CNkJCdzhNbzRQNkhLenJoaEN3eWFzPSIsImkiOiJLeXlvSG9YWUdtTzZ0SCtwIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiczFEYnAxQ2h2TnNOYlk2RG5kMEx1RUR3OXZHZzZxUXN5eldVT09wdEp2bVNIb1g2NUZSL3cxV3EyTTNMU084R1FITkhpaXUvai9XeFJYQ1lKdE94dm9oNzlXL3FmM2s9IiwiaSI6IjlwSENBcFBRYXJjdUFET0ciLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVm43SXhZNk8xWEFzYXFlQ1lVSU1ORm1ta29JVzJpZjhOVkJsNzN5dit2VFY0dE1mNFA1YjVac25vSTU5R2RhODdxMGR0YU44dS8rS3gyWndnWjBuVERmZk5Da0siLCJpIjoiZmsyL0dPQ3ltM3d2RDRUaSIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWkN5SlVJZ3Z1S1RBRTlmYy9CbWxUR2t1aU1pVUNmbzNHeXhOdTNER29TSGFSb3pKTlZSZTFLdTBNbXNKNE9ITERHekgvSHhvd0FlTWl0dnF6azdTU3phd2g3VFdUeEk9IiwiaSI6Im55YUtUd0JlU1dWMGxhcWEiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNlA4dkZ6NS9XWkkzbDNWMGFLS1NOaFg2RzBVejJKZURkVnpseG1ldG01SVNTbkpXWFpaaWhnYldpbHZMQVBucVkzeUF2dkJqWjJocUlTalk5SXh1WnF4UmZJb0RFQT09IiwiaSI6ImxYS2xOeVE0c1pJYnE5Z0QiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA08546 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/SMWRorcb1g"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/yudQO"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?rcyqk0tdfwz7zzmfo2w3&af=4186346"
             }
           ]
         }
@@ -9009,6 +9127,57 @@
       ]
     },
     {
+      "baseTitleId": "PPSA20450",
+      "title": "KAGE Shadow of The Ninja",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/KAGE_Shadow_of_The_Ninja.jpg",
+      "variations": [
+        {
+          "name": "PPSA20450 – JPN (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVVc1SGZVbU9XVWlNVmhHUmlZV1VlU3pTaVE1RnVwYnVoYnVMSmRQaENFeGdxTHdCcWl1cWtGbzBwaDVwUG9hZDQvSGZMaUJHVEg4bnJBaUhhMUJUclJIMTFhbFI2RXBPWU9jPSIsImkiOiJZRUdVRXNGRXYrZzVMZVp1IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib2pTMWlZLzhzakVKNUl5WXQrcU1YSEdsS1VYYWt1c3NLSVZQTyt6cGZ2RU44MExUOGM3bUtJWlp2Vm92dlBtNWd6eHlSL2lQSGZvckJPWjdSdXp2dVZSelBZYWdMQ2s9IiwiaSI6IlZGeUNsSjZaMVNnS0hFWDYiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY212ZFNKc0FLaS8ydnhnSTRXVjdjZHZaTE16YVZlNElOMzhCQVRaSk9KdWRxZWRpTnJPV0k5ZFQzanBGSVdGSDQyWDRGNDd5cnpYSDBPZWxaTklGMFd2WWczd1kiLCJpIjoiMkJYR0tsdzRnYjJ5R0xDViIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaHVRdDVjcklQSkVEbmx3VG44eGFFV3kxT3l2WFJOeWsyRVc5Sy9vbkhiVkpIZjFYZjBLNE5HNldES1BCakJCcGtIVXM0dmI0MEpldmVBMDhLdi9QU0VUTGlDdmJWN1U9IiwiaSI6Img2aGRYLzBldlR6MU51MXoiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVUxjYWIzY0xJdFRrdHdmOCtIM05abmxqVTJWMWFiQlh3UU1oaUtBYW1RaFJsQVRKQWlnZUxQOTdYVWdUR0dJcUFiSXc4S3F1WHA3dmlYbzNibVRubnlyblQ5dUx3QT09IiwiaSI6Ikw1N3ZNbU9XUHdPd2FmaUoiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA20450 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/di3BSVrf5O"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://rootz.so/d/1pzy7s"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?vdbyoorbne2yiyqm0387&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA30797",
       "title": "KAKU Ancient Seal",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/KAKU_Ancient_Seal.avif",
@@ -9369,6 +9538,39 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?qhk8idn4pz03zxs382gk&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA20289",
+      "title": "Kong Survivor Instinct",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Kong_Survivor_Instinct.jpg",
+      "variations": [
+        {
+          "name": "PPSA20289 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaFc0djdZL0hVaThCUUN6dGVUUXovNUFjVEdwK0F5dGM0R1VkUmFuK3poQjQzcHl6T2xOc0cwVWNVc241KytkSzNEbWN6S2ZCUHBIWmt6emxiRktjSTFXMy9DTXNGRFhTWWVJPSIsImkiOiJySTFxMThSSTJ1VDM2THRMIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2M2ZWo4WkIxa3BveXpxaGVFZWJkQ1RMSVFGd3FBRnVGUTQraG5MaGZYZCs2Wld2R0k3U29NeWtvU25ob05BbXZwcUJNVENHNFNNWFVPNG13RU10UTFra3A5MTZpNTA9IiwiaSI6ImY3WXkrMXk4dTBCazFPY28iLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQ0lkSWpJVDNGRWszMXY2elU3QmVCaHRCb2dkSVlINmg2V3V1RytwT3VTRGE5QS9MczhTeUtRclZXbU5tWGg5VWZCN05EdDJuQUJub0g0Ry9kQ3FRYnVxSm55eSsiLCJpIjoieHVJRzhCcTdpSWtGUGkwOCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYStjQ3RER3JuRFU2SGJKMHh5UUdyWXU4TU5ZcnV4QzJ0bDEwbHhmUldabmdMNnJvT3JGa0xjWFBCQ1BOOU9RcHpsMmJKakw1RzI0SEJDUk1tZG9BM1BXMVRCTFhnYjA9IiwiaSI6InBlRTAwM09KUURoMm55T3MiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVUlLelJFUWNKNUdBWTJTWU5ac3h2OWNudlVvQzlBNlN2YTJxYUh6cHpOdnJzeTFCWlFCM29vQUlBTTZNeldUdWRWZWM1b28vWmxTUDFpN3BPRE1HMVYxbld5VEpXUT09IiwiaSI6InhZR0lQOEREaVhaN08zenQiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         }
@@ -10405,6 +10607,53 @@
       ]
     },
     {
+      "baseTitleId": "PPSA09090",
+      "title": "Lunar Lander Beyond",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Lunar_Lander_Beyond.avif",
+      "variations": [
+        {
+          "name": "PPSA09090 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZWNSMWRxTXZZb0w3QnZMTlBPR3p4OWlrVDdCYW1TUDlWK2ZpSzB5Q3o0LzViWkRtQjZzTDJJdVFDdjljdHNLa2ZDQ0llRFl1YzZuNnpoVDJ5STdXVmdCUzZuZkFHZE1IRUtVPSIsImkiOiJFalNQRVVwUFpacU96Y3l3IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieXhyTGQ5bnprSHpiK2dwUEcvWFZRZnA3c0J0aUd1dk93ZFRjaFhMbkFCUmJMWCt5Y0RkUkE0VVg4UmJIb1UzMkNTczU2OUJ2dXN1RHloY09mdGpyNXVTT3BvVGl3K1k9IiwiaSI6Inh1MlhBNDViNTVWd2E5WlQiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMXhtNEozUWZsODVveGV0Wkx2MHhydUtaUjh3YTEwU0JnVkN5eTdGMVU2SEJ5VWZ1bW9wUEZSYmZrb1RMVkFkdUJkUldFSXcwNmtOMGZsV0N6MkhTTTJ1V0lOb0IiLCJpIjoiaHZwYllvY0dZdFFoK1o0YyIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRkxDdFliczdRWkdJbm9lMW9sMVBRWGtmSWVjQnpzSnhvWjB5NnltS3docDFJUDZBRHpKVmVJZ2NEeXJKaGp5TTVuVk9LZXU4Rzg1dzNFdjRFQ0h4dHA3Y1Rab3pRS2c9IiwiaSI6InRtVkY3bkJYY2FuRnpocnYiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVGVoK3dVSUxZdlRPZWJ1VjltK2Rpcyt2ZFlnRlJiTjB2SnJYakY2Rm16akdZSnFUaWxTNVZobDdMczFsNnlyemVNR0tsU2ZsUlc5YUVRcThiQW5aMmE0WWQvS2NHUT09IiwiaSI6IlN1RWRPeGo2NGRNbnBYYXMiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA09090 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/6vxdA"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?61djh0ps8wm4ky5kjibn&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA26127",
       "title": "Madden NFL 26",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Madden_NFL_26.avif",
@@ -10634,6 +10883,57 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?4v3huunp4tt69rzi9i2q&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA17245",
+      "title": "Marvels Avengers Definitive Edition",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Avengers_Definitive_Edition.avif",
+      "variations": [
+        {
+          "name": "PPSA17245 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWjFYYzlvRVE1Z1NESDBpQUd4QzJMNFFXckc4cjZENzgrYUlMVEpBQXVhb2RUa0VoOTFQNE0walcxaURRaGN0aHcvVzNFalAyc0NmbXpVRDl2VkRabmxaenptMnQ5S2xKY2RNPSIsImkiOiI1RnVKTGIxVEN0NDFpVEJHIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOVQ4dXNQNzIxeFoxbUUwRUNXOGdjNTZxUE5jQkVkK1h2ckZxNUhCbDdpNThVYlZBdjRMTDJkems2dTRWbjdXUGgveFl6bUdRWTJzOVpocFh4UmUyb2ljL0JYTUkwUms9IiwiaSI6IlFUWWg1WUx4blU3NWF5MzYiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHE4WGQ2UmttQUh0ZkUzZUprbkFLY3RhUTBLSU1BSmFKMS9jM3hrS0d6dzJnUXNxbnhuM0xXUUxsNm00aG1RaGRnMmhFdzF6SEVBbzRDcXpiTlJFWnpLRWkrTEsiLCJpIjoic3hYdEErcFBlaHpoOVdzVCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHlPblJscitqTElMQi96d2g3aXZmcythUk0xamUzajFVUHRqSXdCN2ZLU1Bobm1PaFVNM3p1NHR5eFFXRGdOcHdoTS9TR3VaLzRkdE9FM1FHbHdGc1FjS3FHQjZzZ289IiwiaSI6IktZWGQvL0ZFdkxHZ1pqSnUiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3pCdzdGcG02bTNqQVV4Q2FnZGlKSjByLzUvenMzMFVKWjN6ZkxEbUdWV2ErUlJsM0R1VjdnTGw4TGFZdzJSbFZheEdkdXRCL2x0MFVsd1M5aDlZZ0xxZVo3TU9DQT09IiwiaSI6Ijd4Tk5lMkVDSEdzNzNSWlIiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA17245 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/FjoeaUsVuv"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/46cUK"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?jorpxzhx1hailj7po8z8&af=4186346"
             }
           ]
         }
@@ -13190,7 +13490,7 @@
     },
     {
       "baseTitleId": "PPSA17949",
-      "title": "Plumbers Don't Wear Ties: Definitive Edition",
+      "title": "Plumbers Dont Wear Ties Definitive Edition",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Plumbers_Dont_Wear_Ties_Definitive_Edition.avif",
       "variations": [
         {
@@ -13208,6 +13508,26 @@
             {
               "name": "exFAT - Data",
               "url": "https://datanodes.to/b292y9s63o4r"
+            },
+            {
+              "name": "Backport - backport_akia",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNk9yM01uNkZLd0preWJQNkRSbmVKRnl5Q1VjdGZ3Y0hzNlRnTkU5RlhVNmdZS0ViYS84NkJWYmN5QlE0SEw5bUl4bkR5V1JqMTVjOGExcFh0WTUrOSsvMEF3VmxwL3oyd0tRPSIsImkiOiJla0p5WThnakpTdnp0bXB3IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "Backport - backport_viki",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZGZrOVBKTTdJcXFGRW9KMzdEZVAxcmEyclcwVkdJVG9qdFBHeTJVRlBubFFqOVJITlZLbVdmMHNxaVJmVW0vZXIvdTRvNEpSdzdLOHhEdTZBYXphZ1Zvc29OZVBlNjQ9IiwiaSI6IlJ1c01kd0Vjd0FRZG5XYXkiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "Backport - backport_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTm9PbjhIWGl3NkFEdFZjb0Q2VUhkSVdpL0RXUzU4S3JheHdza2t0WjMxUEcyU2tBNkM5YW91YmhDLy9BVWQzeWdmbHlOOHVpNTcxWmM0VlJQV2RhTy9LRjNoTXIiLCJpIjoiQVNjQXpkdXN1enduODZVQSIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "Backport - backport_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiR0JldzZBVWwxQnVzOUg5YkdBOVI0ZzBpSnZyMjI2Zm91cjk1eXJLbm1EN3A3SzdmOWtPYUl4RkpidVRrUk1JTEhXQmNTT0MrN2ZKTjRyQkZjV2xibnkwMTY0elNqNzQ9IiwiaSI6Ino3TWNkZEZoRVJabFd2dGkiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "Backport - backport_vault",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMjkzTVR6R0QvSzhwNGlEcWxJQjlLYzdMQzBlQnd3eHJJUXllSDJ3aVp1d1BsYkNyTzZPemdTYWVLS21OR0lJcHlWb3Z6eFZkV1RBMTdoaGNvRTFlbHVVVDR6d0drUT09IiwiaSI6IjhSU3VyWnJnOG02Q0N4RlAiLCJuIjoiVmF1bHQifQ=="
             }
           ]
         },
@@ -15568,6 +15888,47 @@
             {
               "name": "DLC - Data",
               "url": "https://datanodes.to/wqnegayn2vsy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA19461",
+      "title": "SHINOBI Art of Vengeance",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/SHINOBI_Art_of_Vengeance.avif",
+      "variations": [
+        {
+          "name": "PPSA19461 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOVAyWGJPSjRDcmttakZ6SWpkM2NhdmJ0VU54V1R2UlVydStROUtZd1krYXF4ZHoxY0xHellBZU9rQXhpUjFqRlhRbzNTWlU4OVdDeENjejNDMElWNmR3UDNBUm9rZVpSbWJvPSIsImkiOiJOVUIrOEhUTk5lQzZsS1g4IiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicW9GN0lYUFFkYktlWUVpWG1DeloyUVdzU2tWV3hkVWFJRk5rWlRjVndpWVB2Q3JRNmZtQ3IvS2FMSnpOeTJZTTZaWXlER05Rb1FjSmJpVHhVWm5qM0RQeUZENEJHdmM9IiwiaSI6Im5xN2JxT2VvaDFKTHk0eCsiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiblZkVkY1Wk9GQWV4T001RExLbk9EVkI0MTJ0VGpWUUcwZGdjUWdtWUhVWnAzODVuVHF1cUMzN2g3Mm80ems1bm5maUJuL0cvelZBMUkyOFFpOTVIblpGN2prUUMiLCJpIjoiYmp0QXpUbm9OY29hRjdDUCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS0pCcmFtaEN3UHVQWDdFTTl1Yit2cHhhTnR3R21VaE00dEI2SGFJbTBRa2UyYUVGa2h3SXMvejM3RW1ReFhkWlFpUzZPeEdqSXljb0dMSzl1Z1RGVmIvK0IvUlJsLzA9IiwiaSI6InZIalViQk1XL0hBa2I3cFUiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidlZ5ZUtualNJdDRaUS9LUHdVSVpuY2FhQTZPQWUvZjJGY3ZFWjREWUs5b2FFR2kvdUdNdFgxL1FLcjkvQnZPM1Jlb1lVdEVIZ1hYSzVSZ0NvdGpwRkRvZUMyQ0tRUT09IiwiaSI6ImJmKzBrY3J0REZqT0NBclgiLCJuIjoiVmF1bHQifQ=="
+            },
+            {
+              "name": "DLC - dlc_data",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoid2c2NjE0R0o4Z2I2YWtmdiszMXNYdWEyQWMveVhPSUtwMkJFRmpyMjdHeFE4QmRtMUZmV25CZEc5K2ltVEE1K3dPQWZUTFRMR1cyK2o5cldJWUp3d1lYWnpoSWkiLCJpIjoiQithMlFSTlQ4MU4yWE10bSIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "DLC - dlc_filek",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTk1wNW1vZWN1REtmK3lvYUpQVWhCb01KWi9qQjRESjJ2OXNBNEk5ZGtML0sxTzNKd0E1MkNmdmZtaDAwd0VPWjhkR3IvYnJ2Z09QR1BJanlQbnIwVXZwQ1RrRmZlKzA9IiwiaSI6Ilg0ckcvUktIeTJyajVwSXciLCJuIjoiRmlsZUsifQ=="
             }
           ]
         }
@@ -18409,6 +18770,39 @@
       ]
     },
     {
+      "baseTitleId": "PPSA21112",
+      "title": "TEVI",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEVI.avif",
+      "variations": [
+        {
+          "name": "PPSA21112 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV2JrSnR6QldtWVZ0L0JId0l6cjJSN1ZBNG95LzNBM2dZQ1RUR0EveGJrc0YxSm9SSDhhbDhEbC92dEpnRTloLzR6VlY5Znc1ejNqTWFoRy95K2N6QXFNdzRmOUtrQlpabCtZPSIsImkiOiJuMU5mVXBaeTR4OGEyUG4rIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQjNQaXdmS1VsS1pHNXFwdmdPdG1DdHhwT3BaMUp0cTRac0dFVWkyNXB5bkEzVTRBK2p6aHFlSUNDWldETjhKN3FnNDIxUVRqdENUVEllWkJUUXNpN21wOURYNG1ESUk9IiwiaSI6IkJDeER4REhuYjhkc0NNS0IiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVc5MkdVMWtoenJibXlWblpGNVBWTjdCSUQ5UmMwSklBSlNEMlFFc1hReElWdlRMakFPczk5YTVCbmQ2dFNVa2ZtNDc2dUtITDdKbkJXN3NzcjNPR05rUEZJZngiLCJpIjoiRzBUc0FXS05tQ3c0L3lqNCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMWFIRHdiY0VkemxxdnFFbHozSGZJdEgxRWxCLzVTMnFpeFNjRGI0dDh4SlNncGtVL3k4YUIzS3d1KzcxbGFPdjhvZk5wOVcyYXBVSERmbi8rYmNxT3JTWTRLS2tld1k9IiwiaSI6IlVJU0t6MkJXa3lsbTBjMjYiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZE9zb2JQL2M2U0FBSmxEU1lvcm5RT29VNDZrSDNBNWtRSThDU3MxeHZSSjFFeHFIZjRMV3RYMWRlNU5oT2wrcW5Tdm1zcExJNzBCYWllR2N5VDlVRVcwWEVhZjFIUT09IiwiaSI6Imllb0hzbU5CSUwwOW9KekgiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA02593",
       "title": "The Ascent",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/The_Ascent.avif",
@@ -20806,6 +21200,81 @@
       ]
     },
     {
+      "baseTitleId": "PPSA03644",
+      "title": "Two Point Campus",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Two_Point_Campus.avif",
+      "variations": [
+        {
+          "name": "PPSA03644 – EUR (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiS245OTFUckxHU0E4cXNJcHZlOW4wdDk0WmpkWHJFWW9ORzFTaUVGanJWRVdCUHQ1OU5SbUlHTTVkWXY5TkRNclA2NGFkNmlrQTJvOEhkUHFDZ21ZZ1VwTzZtQjFwWEx2MUNVPSIsImkiOiJ0V2ppTWdUcFBabHJmV1oxIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiejI1clZzVnRxT1AyV0lSN24xWWVVSTZ6VFlqbjlFc295dFJlODVNdjZINDFYS2sxQ2UxS1c5ZnUzdzluTnFkUU5WUjFtdnNSR2w1dlk1cWpLNWVFVG82QjJPaHFsRXM9IiwiaSI6Iit6ZWJsUHRjczE0N2VYSHAiLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMEJKcnpMeVExWGlrZzd4bTRDa0k2NGZ0WFhvalRBMVg2dlB2UDc3cWxzUzYwOTJrbWo1a0ZDWEVlbDlqVXZYMEhqUzhHK2xlZVVEVkI3U1ZRQ0EwaU9jaFpUbUwiLCJpIjoiRTg1M1VsSjB0dU8yWTBzdiIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMzR0WmVNOEJQVTF0amIya0w2VjlxR2lxOVM1WVE5UjlzRlUrK2h2K0ZaZnR5OGVxa05NdTZ2dWVuR29lSCtEeklTL000L2EvYkRuOGNoLy9BY2Zqb2RnZzQ1SElkMW89IiwiaSI6Im1nemJtYVU0VDFsZ1N6WGkiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTVYwcGx6cEZ4bmVBWi9OeXE2ZUdpNm0xSGQzbjhsOUxJQ1M5TklTVGw0UFR3T2FJL1poVWNvbGNLbGVqSDRzOUd1Q21zY1pyNUx5WVdBaHBwK1hYRmdmcjViZlJnZz09IiwiaSI6Ii92S1NjSVRDd01wRlBnS1MiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA03644 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/Ssua92lxZc"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/WBnlo"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?e10cnqc16273h7vae1va&af=4186346"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/9S9w6Xyg6z"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/1is2T2"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?h3f3qd5n2jnppg07curo&af=4186346"
+            },
+            {
+              "name": "Backport - Viki",
+              "url": "https://vikingfile.com/f/TKWwLEkrVZ"
+            },
+            {
+              "name": "Backport - Rootz",
+              "url": "https://www.rootz.so/d/S9wuG"
+            },
+            {
+              "name": "Backport - 1File",
+              "url": "https://1fichier.com/?dbywx13qww0vderx3ij2&af=4186346"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "baseTitleId": "PPSA19769",
       "title": "Two Point Museum",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Two_Point_Museum.avif",
@@ -20825,6 +21294,57 @@
             {
               "name": "exFAT - Data",
               "url": "https://datanodes.to/t17xzdhtay71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "baseTitleId": "PPSA14376",
+      "title": "UFO Robot Grendizer The Feast of The Wolves Deluxe Edition",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/UFO_Robot_Grendizer_The_Feast_of_The_Wolves_Deluxe_Edition.avif",
+      "variations": [
+        {
+          "name": "PPSA14376 – USA (exFAT)",
+          "source": "exFAT",
+          "links": [
+            {
+              "name": "exFAT - akia_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNlFCNmMwQlEvZXI4UG9aYWpsUjVIK09yaFdzMGF2ZXZrOHRLZGRhcXVXalhEVmtqNGVjQmRuN2xwRmlQYWtqL25sU0dNSjhlaUdmd3ZmNWZqZ3ZkcTdoclJSZ09aNXNnZVJJPSIsImkiOiI5OGdLeWlpdzR2YTlObzQrIiwibiI6IkFraWEifQ=="
+            },
+            {
+              "name": "exFAT - viki_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibW8zTU1Gc28vLzFXbVNuMTFYaGdMSnBibXpXNUxrYkxSd2ZTYjgrZXpDelVsRFhJK2JRNkI0SVRJbmlwejNmOWNxaHNQaHRETmFPZm0yc0JUMHNoVzA5NGJwYk9KS009IiwiaSI6Ilk5NWpHZFBwOTl3SmpzME4iLCJuIjoiVmlraSJ9"
+            },
+            {
+              "name": "exFAT - data_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicUVYT0pBb1MvM3ZIdnMySnduSU9mSHovRkx3QWNScEtEcmM4U1VNWWk4MGplU0ROek1FY0hsaloyeXZnemdjaUNnckc2UFVTVzAxcGJIRDZ2MmZrNWR4bjU2ZksiLCJpIjoiZXlKMFFWdGt3UGtQNkRlZCIsIm4iOiJEYXRhIn0="
+            },
+            {
+              "name": "exFAT - filek_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTGI4UGl6UDVzcGdnSDNKM1ZJZll3Z1d2Q3VlZDdIVUdJOXhyZEt3RmZyVHh3VWcwYmFZSjNWeEczT3crcXVyUlZIcGoxeitGTnBmaStlYWtSUHJKTHFyQk1YdTQyeXc9IiwiaSI6IlZsZGg3dUdTMFA5STQwSlAiLCJuIjoiRmlsZUsifQ=="
+            },
+            {
+              "name": "exFAT - vault_url",
+              "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN2Y3dU5xQjhJUTZRZGJwNDJROU02bmNEWVo3RTd5YXh3czMxSm5kT3YwaTZEekZUcFQyaGEzRkxyRjZtRWpTL2hMdE9mNHBRRjRQREpSbUdUYzgwcUg1UW4ycVd2dz09IiwiaSI6IlRPUnJqeWpjR01NTU56dHkiLCJuIjoiVmF1bHQifQ=="
+            }
+          ]
+        },
+        {
+          "name": "PPSA14376 – USA",
+          "source": "superPSX",
+          "links": [
+            {
+              "name": "Game - Viki",
+              "url": "https://vikingfile.com/f/DAVCc16gWM"
+            },
+            {
+              "name": "Game - Rootz",
+              "url": "https://www.rootz.so/d/4lcm"
+            },
+            {
+              "name": "Game - 1File",
+              "url": "https://1fichier.com/?8lxr79p32cp1ecb2vjai&af=4186346"
             }
           ]
         }
@@ -22691,27 +23211,6 @@
             {
               "name": "Fix - 1File",
               "url": "https://1fichier.com/?yqabcv32o1atq386tx23&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA17465",
-      "title": "Barbie Project Friendship",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/06/Barbie-Project-Friendship-PS5.jpg",
-      "variations": [
-        {
-          "name": "PPSA17465 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/1Rfu3U"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?5z9jscqzqyizerf6kqkj&af=4186346"
             }
           ]
         }
@@ -24680,31 +25179,6 @@
       ]
     },
     {
-      "baseTitleId": "PPSA08546",
-      "title": "Flashback 2",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/01/Flashback-2-PS5.webp",
-      "variations": [
-        {
-          "name": "PPSA08546 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/SMWRorcb1g"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/yudQO"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?rcyqk0tdfwz7zzmfo2w3&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "baseTitleId": "PPSA05625",
       "title": "Fobia: St. Dinfna Hotel",
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/02/Fobia-St.-Dinfna-Hotel-PS5.png",
@@ -25607,31 +26081,6 @@
       ]
     },
     {
-      "baseTitleId": "PPSA20450",
-      "title": "KAGE Shadow of The Ninja",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/03/KAGE-Shadow-of-The-Ninja-PS5.webp",
-      "variations": [
-        {
-          "name": "PPSA20450 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/di3BSVrf5O"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://rootz.so/d/1pzy7s"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?vdbyoorbne2yiyqm0387&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "baseTitleId": "PPSA05786",
       "title": "Kid A Mnesia Exhibition",
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/02/Kid-A-Mnesia-Exhibition-PS5.png",
@@ -25837,27 +26286,6 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?3j0xlgdkondt8tkf68vd&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA09090",
-      "title": "Lunar Lander Beyond",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/06/Lunar-Lander-Beyond-PS5.jpg",
-      "variations": [
-        {
-          "name": "PPSA09090 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/6vxdA"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?61djh0ps8wm4ky5kjibn&af=4186346"
             }
           ]
         }
@@ -28358,31 +28786,6 @@
       ]
     },
     {
-      "baseTitleId": "PPSA17245",
-      "title": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/01/Teenage-Mutant-Ninja-Turtles-Mutants-Unleashed-PS5.webp",
-      "variations": [
-        {
-          "name": "PPSA17245 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/FjoeaUsVuv"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/46cUK"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?jorpxzhx1hailj7po8z8&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "baseTitleId": "PPSA04489",
       "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
       "posterUrl": "https://www.superpsx.com/wp-content/uploads/2025/02/Teenage-Mutant-Ninja-Turtles-The-Cowabunga-Collection-PS5.png",
@@ -29175,80 +29578,6 @@
             {
               "name": "Game - 1File",
               "url": "https://1fichier.com/?p4m6676hrwdzrf53lngl&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA03644",
-      "title": "Two Point Campus",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/02/Two-Point-Campus-PS5.webp",
-      "variations": [
-        {
-          "name": "PPSA03644 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/Ssua92lxZc"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/WBnlo"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?e10cnqc16273h7vae1va&af=4186346"
-            },
-            {
-              "name": "Backport - Viki",
-              "url": "https://vikingfile.com/f/9S9w6Xyg6z"
-            },
-            {
-              "name": "Backport - Rootz",
-              "url": "https://www.rootz.so/d/1is2T2"
-            },
-            {
-              "name": "Backport - 1File",
-              "url": "https://1fichier.com/?h3f3qd5n2jnppg07curo&af=4186346"
-            },
-            {
-              "name": "Backport - Viki",
-              "url": "https://vikingfile.com/f/TKWwLEkrVZ"
-            },
-            {
-              "name": "Backport - Rootz",
-              "url": "https://www.rootz.so/d/S9wuG"
-            },
-            {
-              "name": "Backport - 1File",
-              "url": "https://1fichier.com/?dbywx13qww0vderx3ij2&af=4186346"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "baseTitleId": "PPSA14376",
-      "title": "UFO Robot Grendizer: The Feast of The Wolves",
-      "posterUrl": "https://www.superpsx.com/wp-content/uploads/2026/01/UFO-Robot-Grendizer-The-Feast-of-The-Wolves-PS5.webp",
-      "variations": [
-        {
-          "name": "PPSA14376 – USA",
-          "source": "superPSX",
-          "links": [
-            {
-              "name": "Game - Viki",
-              "url": "https://vikingfile.com/f/DAVCc16gWM"
-            },
-            {
-              "name": "Game - Rootz",
-              "url": "https://www.rootz.so/d/4lcm"
-            },
-            {
-              "name": "Game - 1File",
-              "url": "https://1fichier.com/?8lxr79p32cp1ecb2vjai&af=4186346"
             }
           ]
         }
